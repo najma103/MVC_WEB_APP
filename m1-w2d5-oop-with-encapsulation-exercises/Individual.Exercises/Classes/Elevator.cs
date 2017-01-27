@@ -4,13 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Helloworld
+namespace Individual.Exercises.Classes
 {
-    public class Program
+    public class Elevator
     {
-        public static void Main(string[] args)
-        {
-
-        }
+       
     }
+
 }
